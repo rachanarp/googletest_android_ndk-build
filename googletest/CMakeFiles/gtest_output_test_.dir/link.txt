@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/gtest_output_test_.dir/test/gtest_output_test_.cc.o  -o gtest_output_test_  -L/Users/rpandya/Desktop/gtest-Android/googletest/src  libgtest.dylib -Wl,-rpath,/Users/rpandya/Desktop/gtest-Android/googletest/src 

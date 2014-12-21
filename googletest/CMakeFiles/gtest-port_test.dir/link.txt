@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/gtest-port_test.dir/test/gtest-port_test.cc.o  -o gtest-port_test  -L/Users/rpandya/Desktop/gtest-Android/googletest/src  libgtest_main.dylib libgtest.dylib -Wl,-rpath,/Users/rpandya/Desktop/gtest-Android/googletest/src 
