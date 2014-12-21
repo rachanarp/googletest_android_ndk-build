@@ -1,2 +1,10 @@
 sample/test_project/libs/
 sample/test_project/obj/
+
+sample/test_project/coverage.info
+
+*.png
+
+*.css
+
+*.html
